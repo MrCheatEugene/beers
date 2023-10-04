@@ -1,0 +1,16 @@
+[
+{
+  "modid": "beers",
+  "name": "Beers",
+  "description": "Mod that adds some legendary Russian beers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/MrCheatEugene/beers",
+  "updateUrl": "",
+  "authorList": ["MrCheatEugene"],
+  "credits": "MrCheatEugene",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
